@@ -1144,3 +1144,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [23Feb2025 19:48:45.087] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
 [23Feb2025 20:16:24.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Weird Fishes/Arpeggi]
 [23Feb2025 21:06:55.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved wrongly!
+[23Feb2025 21:29:53.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Disconnected
+[23Feb2025 21:29:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[23Feb2025 21:29:53.347] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Feb2025 21:30:45.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:50183] logged in with entity id 12678 at (8.699999988079071, 60.0, -0.699999988079071)
+[23Feb2025 21:30:45.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[23Feb2025 21:30:45.619] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[23Feb2025 21:30:45.619] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[23Feb2025 21:30:45.620] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
