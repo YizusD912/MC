@@ -10664,6 +10664,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-02-23 23:45:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2025-02-23 23:12:43 +0000"

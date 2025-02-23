@@ -1203,3 +1203,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [23Feb2025 23:36:38.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Three Little Birds]
 [23Feb2025 23:38:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrexo_16> [name:"ty", x:6786, y:77, z:-845, dim:minecraft:the_end]
 [23Feb2025 23:42:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [The Imperial March]
+[23Feb2025 23:45:05.154] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[23Feb2025 23:45:05.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[23Feb2025 23:45:05.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[23Feb2025 23:45:05.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[23Feb2025 23:45:05.157] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[23Feb2025 23:45:05.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[23Feb2025 23:45:05.158] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[23Feb2025 23:45:06.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[23Feb2025 23:45:06.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[23Feb2025 23:45:06.391] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[23Feb2025 23:45:06.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[23Feb2025 23:45:06.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[23Feb2025 23:45:06.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[23Feb2025 23:45:06.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[23Feb2025 23:45:06.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[23Feb2025 23:45:06.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[23Feb2025 23:45:12.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Three Little Birds]
+[23Feb2025 23:49:25.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1984, y=26, z=1135} BlockPos{x=1978, y=28, z=1135}
+[23Feb2025 23:51:36.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YizuzD> [name:"Mazmorra 1", x:2017, y:110, z:1113, dim:minecraft:the_end]
+[23Feb2025 23:51:59.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2030, y=54, z=1148} BlockPos{x=2029, y=54, z=1149}
+[23Feb2025 23:53:24.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2047, y=47, z=1147} BlockPos{x=2043, y=43, z=1126}
