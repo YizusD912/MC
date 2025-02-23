@@ -1152,3 +1152,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [23Feb2025 21:30:45.619] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
 [23Feb2025 21:30:45.619] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
 [23Feb2025 21:30:45.620] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[23Feb2025 21:44:58.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YizuzD lost connection: Disconnected
+[23Feb2025 21:44:58.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD left the game
