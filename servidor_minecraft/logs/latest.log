@@ -1162,3 +1162,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [23Feb2025 23:17:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [The City at the End of the Game]
 [23Feb2025 23:18:12.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has reached the goal [Sky's the Limit]
 [23Feb2025 23:18:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has reached the goal [Sky's the Limit]
+[23Feb2025 23:26:56.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved wrongly!
+[23Feb2025 23:30:00.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Feb2025 23:30:00.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keepinventory false<--[HERE]
+[23Feb2025 23:30:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Feb2025 23:30:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: keep inventory false<--[HERE]
+[23Feb2025 23:30:26.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gamerule keepInventory is now set to: false
+[23Feb2025 23:32:53.071] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[23Feb2025 23:32:53.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[23Feb2025 23:32:53.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[23Feb2025 23:32:53.072] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[23Feb2025 23:32:53.073] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[23Feb2025 23:32:53.073] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[23Feb2025 23:32:53.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[23Feb2025 23:32:53.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[23Feb2025 23:32:53.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[23Feb2025 23:32:54.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[23Feb2025 23:32:54.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[23Feb2025 23:32:54.737] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[23Feb2025 23:32:54.737] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[23Feb2025 23:32:54.737] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[23Feb2025 23:32:54.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[23Feb2025 23:32:54.738] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
