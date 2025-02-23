@@ -10663,5 +10663,17 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-02-23 23:09:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 23:08:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
