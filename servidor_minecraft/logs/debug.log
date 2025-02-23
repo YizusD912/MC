@@ -8886,3 +8886,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [23Feb2025 23:10:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Ender Distancing]
 [23Feb2025 23:10:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Race Against The Clock]
 [23Feb2025 23:12:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Weird Fishes/Arpeggi]
+[23Feb2025 23:13:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [The City at the End of the Game]
+[23Feb2025 23:14:27.217] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Feb2025 23:14:28.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[23Feb2025 23:14:28.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[23Feb2025 23:15:41.013] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Feb2025 23:17:47.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [The City at the End of the Game]
+[23Feb2025 23:18:12.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has reached the goal [Sky's the Limit]
+[23Feb2025 23:18:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has reached the goal [Sky's the Limit]
+[23Feb2025 23:19:28.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[23Feb2025 23:19:28.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World

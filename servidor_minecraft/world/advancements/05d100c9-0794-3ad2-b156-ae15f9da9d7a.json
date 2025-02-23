@@ -3144,6 +3144,7 @@
       "minecraft:witch": "2025-01-08 00:34:21 +0000",
       "minecraft:wither_skeleton": "2024-12-28 03:33:38 +0000",
       "minecraft:husk": "2024-12-24 20:02:46 +0000",
+      "minecraft:shulker": "2025-02-23 23:13:33 +0000",
       "minecraft:cave_spider": "2024-12-24 02:07:09 +0000",
       "minecraft:piglin": "2025-01-12 01:06:19 +0000",
       "minecraft:stray": "2024-12-28 03:04:57 +0000",
@@ -10663,15 +10664,75 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-02-23 23:12:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-02-23 23:10:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-02-23 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-02-23 23:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-02-23 23:09:04 +0000"
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-23 23:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-02-23 23:13:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-23 23:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-02-23 23:14:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-02-23 23:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-23 23:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-23 23:14:38 +0000"
     },
     "done": true
   },
