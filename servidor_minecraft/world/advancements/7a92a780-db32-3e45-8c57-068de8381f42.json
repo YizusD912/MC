@@ -50,6 +50,7 @@
       "minecraft:cherry_grove": "2024-12-29 02:05:57 +0000",
       "minecraft:birch_forest": "2024-12-29 02:11:52 +0000",
       "minecraft:beach": "2024-12-28 03:23:20 +0000",
+      "minecraft:dark_forest": "2025-02-26 03:37:34 +0000",
       "minecraft:river": "2024-12-28 02:42:51 +0000",
       "minecraft:snowy_plains": "2024-12-29 03:27:59 +0000",
       "minecraft:stony_shore": "2024-12-29 03:28:02 +0000",
@@ -58,8 +59,11 @@
       "minecraft:cold_ocean": "2024-12-28 03:23:05 +0000",
       "minecraft:forest": "2024-12-28 02:38:49 +0000",
       "minecraft:lush_caves": "2025-02-10 03:04:20 +0000",
+      "minecraft:jungle": "2025-02-26 03:47:58 +0000",
+      "minecraft:ocean": "2025-02-26 03:43:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-10 02:15:00 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-29 02:13:18 +0000",
+      "minecraft:deep_dark": "2025-02-26 03:42:18 +0000",
       "minecraft:meadow": "2024-12-29 02:03:34 +0000",
       "minecraft:plains": "2024-12-28 02:42:05 +0000"
     },
@@ -5266,6 +5270,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-26 03:40:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-02-26 03:19:50 +0000"
@@ -5362,6 +5372,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-26 03:42:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-02-26 03:19:50 +0000"
@@ -5398,9 +5414,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-26 03:40:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-02-26 03:19:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-26 03:40:11 +0000"
     },
     "done": true
   },
@@ -5413,6 +5441,12 @@
   "born_in_chaos_v1:dark_blacksmith": {
     "criteria": {
       "dark_blacksmith_0": "2025-02-26 03:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-26 03:42:23 +0000"
     },
     "done": true
   },
