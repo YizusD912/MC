@@ -775,7 +775,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_6": "2024-12-28 02:49:01 +0000"
+      "squireofthe_dark_lord_6": "2024-12-28 02:49:01 +0000",
+      "squireofthe_dark_lord_0": "2025-02-26 03:13:18 +0000"
     },
     "done": false
   },
@@ -5232,6 +5233,18 @@
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-02-26 02:56:49 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-26 03:07:37 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-02-26 03:13:16 +0000"
     },
     "done": true
   },

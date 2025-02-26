@@ -8986,3 +8986,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [26Feb2025 03:05:41.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yuuchan6756 has made the advancement [Cool Jewelery!]
 [26Feb2025 03:06:42.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [26Feb2025 03:06:42.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[26Feb2025 03:11:42.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[26Feb2025 03:11:42.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[26Feb2025 03:13:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yuuchan6756 has reached the goal [Dark Blacksmith]
+[26Feb2025 03:16:42.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[26Feb2025 03:16:42.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
