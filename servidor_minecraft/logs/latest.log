@@ -1175,3 +1175,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [26Feb2025 02:39:26.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-500, y=72, z=-1} BlockPos{x=-500, y=63, z=0}
 [26Feb2025 02:45:41.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-441, y=62, z=-9} BlockPos{x=-442, y=63, z=-10}
 [26Feb2025 02:45:52.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-442, y=61, z=-10} BlockPos{x=-443, y=63, z=-10}
+[26Feb2025 02:52:38.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=65, z=-10} BlockPos{x=-485, y=63, z=-10}
+[26Feb2025 02:52:53.547] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74a46e7e[id=<null>,name=yuuchan6756,properties={},legacy=false] (/127.11.117.120:49957) lost connection: Disconnected
+[26Feb2025 02:54:01.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=65, z=-10} BlockPos{x=-485, y=63, z=-8}
+[26Feb2025 02:54:03.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: yuuchan6756[/127.11.117.120:46169] logged in with entity id 144753 at (-415.9367144513439, 64.0, -3.411409515926482)
+[26Feb2025 02:54:03.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yuuchan6756 joined the game
+[26Feb2025 02:54:03.623] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'yuuchan6756'
+[26Feb2025 02:54:03.623] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'yuuchan6756'
+[26Feb2025 02:54:03.625] [Server thread/INFO] [Jade/]: Syncing config to yuuchan6756 (7a92a780-db32-3e45-8c57-068de8381f42)
+[26Feb2025 02:56:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: yuuchan6756 has made the advancement [Double Trouble]
