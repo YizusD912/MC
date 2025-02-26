@@ -8699,3 +8699,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [26Feb2025 02:01:42.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [26Feb2025 02:06:42.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [26Feb2025 02:06:42.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[26Feb2025 02:11:42.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[26Feb2025 02:11:42.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[26Feb2025 02:16:08.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-499, y=63, z=6} BlockPos{x=-500, y=63, z=7}
+[26Feb2025 02:16:08.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-499, y=63, z=6} BlockPos{x=-499, y=63, z=7}
+[26Feb2025 02:16:42.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[26Feb2025 02:16:42.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
