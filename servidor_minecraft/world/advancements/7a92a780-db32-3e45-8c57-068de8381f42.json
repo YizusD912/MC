@@ -5381,6 +5381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-26 03:59:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-02-26 03:19:50 +0000"
