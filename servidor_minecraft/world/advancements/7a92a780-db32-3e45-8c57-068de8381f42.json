@@ -5229,5 +5229,17 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-02-26 02:56:49 +0000"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_pendant": "2025-02-26 03:05:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
